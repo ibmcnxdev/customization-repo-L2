@@ -18,7 +18,7 @@
 
 if(typeof(dojo) != "undefined") {
     dojo.place(
-        "<link rel=\"stylesheet\" type=\"text/css\" href=\"/profilesCustomization.css\"></link>",
+        "<link rel=\"stylesheet\" type=\"text/css\" href=\"https://github.com/KevinJoyIBM/customization-repo/blob/master/Demo/profilesCustomization.css\"></link>",
         dojo.doc.head,
         "last"
     );
