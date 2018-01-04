@@ -1,0 +1,23 @@
+{
+  "extensions": [
+    {
+      "payload": {
+        "include-files": [
+          "helloWorld/helloWorld.user.js"
+        ],
+		"include-repo"{
+		  "name":"global-samples"
+		}
+      },
+      "name": "[Your Name] Hello World Extension",
+      "type": "com.ibm.customizer.ui",
+	  "path":"homepage"
+    }
+  ],
+  "name": "[Your Name] Hello World Homepage Customizations",
+  "description": "[Your Name] Hello World Homepage Customization",
+  "services": [
+    "Customizer"
+  ],
+  "title": "[Your Name] Hello World Homepage Customization"
+}
